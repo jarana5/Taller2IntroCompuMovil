@@ -1,0 +1,32 @@
+<!-- item_contacto.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/imageViewContacto"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/camera"
+        android:contentDescription="TO"
+     />
+
+    <TextView
+        android:id="@+id/indexViewContacto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:textSize="16sp"
+        android:text="Nombre de contacto" />
+
+    <TextView
+        android:id="@+id/nameTextContacto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="8dp"
+        android:textSize="16sp"
+        />
+
+</LinearLayout>

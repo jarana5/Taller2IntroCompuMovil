@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="gallery_button">Galería</string>
+    <string name="photo_button">Cámara</string>
+    <string name="camera">cámara</string>
+    <string name="contacts_button">contacts button</string>
+    <string name="camera_button">camera button</string>
+    <string name="map_button">map button</string>
+    <string name="pick_place">Escoge un lugar</string>
+    <string name="default_info_snippet">Valor predeterminado</string>
+    <string name="default_info_title">Perdido</string>
+    <string name="hintAddress">Ingrese una dirección</string>
+</resources>
